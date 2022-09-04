@@ -18,14 +18,12 @@ Olá, nesse repositório se encontra o Projeto sobre a APi Serverest, que é o p
 
 O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de servir de material de estudos de testes de API.
 
-O ServeRest é uma API REST simples para permitir estudo de testes de API.
-É uma ferramenta única, não tendo nenhuma outra em PT-BR ou inglês que realize alterações (POST, PUT e DELETE) persistindo os dados, com autenticação JWT, totalmente gratuita e com monitoramento.
 
 ![NPM](https://media.discordapp.net/attachments/969607335901298801/1012826812864286837/linha.png?width=1440&height=156)
 
 ## OBJETIVO DA SPRINT 06
 
-Juntar toda a bagagem adquirida aqui e elaborar um plano de testes, criar testes automatizados no POSTMAN e apresentar um relatório de execução: 
+Criar um projeto usando todo o conhecimento adquirido na sprint, contendo : 
 
  - Plano de Testes 
  - Testes Automatizados 

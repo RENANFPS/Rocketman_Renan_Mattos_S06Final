@@ -22,8 +22,8 @@ Alguns testes disponiveis na <i>Serverest</i>  :
 
 ![NPM](https://media.discordapp.net/attachments/969607335901298801/1012826812864286837/linha.png?width=1440&height=156)
 ### EXECUÇÃO SERVEREST 
-
 Nesse caso iremos trabalhar com a serverest localmente . 
+
 
 
 ## NPM 
@@ -34,7 +34,6 @@ npx serverest@latest
 ```
 
 
-![NPM](https://cdn.discordapp.com/attachments/969607335901298801/1016019125878931466/aaa.png)
 ![NPM](https://media.discordapp.net/attachments/969607335901298801/1012826812864286837/linha.png?width=1440&height=156)
 
 ## Clonar repositório
